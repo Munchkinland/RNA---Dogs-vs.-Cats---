@@ -1,5 +1,7 @@
 ## Image Classification Project
 
+![DALL·E 2023-12-23 09 17 54 - A vividly colored Pixar-style image featuring anthropomorphic dogs and cats working together in a high-tech laboratory  The scene is bustling with act](https://github.com/Munchkinland/RNA---Dogs-vs.-Cats---/assets/92251234/5c6949f3-88a0-4219-8266-1c80e858b4d2)
+
 ## Overview
 This project is focused on training a Convolutional Neural Network (CNN) model using TensorFlow and Keras to classify images of dogs and cats. The model uses the VGG16 architecture with additional layers for improved performance.
 
